@@ -1,0 +1,161 @@
+.one{
+    padding-right: 250px;
+}
+.nav {
+    position: fixed;
+    top: 0;
+    background-color: rgb(205, 205, 253);
+  }
+.two{
+    padding-left: 280px;
+    font-size: 30px;
+    color: blue;
+    font-family: serif;
+}
+
+.button{
+    border-radius: 100px;
+}
+.div1{
+    float: left;
+    width: 50%;
+    height:350px;
+    text-align:center;
+    padding: 70px 0;
+    background-color: rgba(114, 147, 230, 0.985);
+    margin-top: 30px;
+}
+.text1{
+    text-align:start;
+    margin-left: 280px;
+    color:white;
+
+}
+.div2{
+    float: right;
+    width: 50%;
+    height: 350px;
+    background-color:  rgba(114, 147, 230, 0.985);
+    margin-top: 30px;
+}
+.img1{
+    width:72%;
+    height:90%;
+}
+.sec3one{
+    float: left;
+    width: 50%;
+    height:400px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 280px;
+}
+.img2{
+    width:100%;
+    height:90%;
+    justify-content:start;
+    align-content: start;
+    
+}
+.sec3two{
+    float: right;
+    width: 50%;
+    height:400px;
+    text-align:center;
+    padding: 70px 0;
+    padding-left: 30px;
+    padding-right: 230px;
+    padding-top:30px ;
+}
+.text2{
+    text-align: start;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.img3{
+    float: left;
+    height: 200px;
+    width: 300px;
+}
+.img4{
+    float:left;
+    height: 200px;
+    width: 300px;
+    margin-left:20px;
+}
+.im1{
+    align-content: start;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 15px;
+}
+.gimg{
+    height: 300px;
+    width: 420px;
+    border-radius: 5px;
+}
+.section4{
+    text-align: center;
+}
+.hr{
+    width: 4%;
+    border-width: 3px;
+    color: blue;
+    text-align: center;
+    margin:  0 auto ;
+}
+.ul>li{
+    display: inline;
+    padding: 10px;
+}
+.section5{
+    text-align: center;
+}
+.parent{
+    display: flex;
+    flex-direction:row;
+    padding-left:265px;
+    padding-right:0px;
+    gap: 20px;
+}
+.fimg{
+    height: 250px;
+    width:310px ;
+}
+.section6{
+    text-align: center;
+    background-color: rgba(114, 147, 230, 0.985);
+    color: white;
+    padding-top: 20px;
+}
+.clients{
+    display: flex;
+    flex-direction:row;
+    padding-left: 265px;
+    padding-right: 0px;
+    gap: 20px;
+    background-color: rgba(114, 147, 230, 0.985);
+    height: 230px;
+}
+.cimg{
+    height: 200px;
+    width: 200px;
+}
+.ulcopy>li{
+    display: inline;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.foot{
+    padding-right: 50px;
+    padding-left: 0px;
+}
+.social{
+    width: 200px;
+    height: 60px;
+}
+.h3{
+    color:blue ;
+}
