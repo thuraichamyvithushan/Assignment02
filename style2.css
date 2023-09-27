@@ -3,24 +3,37 @@
     padding-right: 250px;
     
 }
-.nav{
-    background-color: rgb(128, 128, 244);
-
+.p2{
+    padding-left: 250px;
+    font-size: 30px;
+    color: blue;
+    font-family: serif;
 }
+.nav {
+    background-color: rgb(205, 205, 253);
+  }
 .nav-link{
-    color: white;
+    color: black;
+}
+.li{
+    padding-right: 250px;
+}
+.nav2{
+    background-color: rgb(100, 106, 112);
 }
 .div1{
     float: left;
     height: 80%;
     width: 65%;
     padding-top: 20px;
+   
 }
 .div2{
     float: right;
     height: 80%;
     width: 35%;
     padding: 20px;
+
 }
 .img1{
     width:100%;
